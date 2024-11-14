@@ -68,8 +68,8 @@ The project is organized as follows:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/Ranjeyan/spotify-app.git
+   cd spotify-app
    ```
 2. Install dependencies:
    ```bash
