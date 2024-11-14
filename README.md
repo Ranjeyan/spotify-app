@@ -1,5 +1,5 @@
 
-# Project Title
+# SPOTIFY APP WITH FLUTTER
 
 A brief introduction to the project, describing its purpose and key features.
 
