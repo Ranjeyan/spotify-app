@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "960189514323",
+    "firebase_url": "https://healingbee-firebase-default-rtdb.firebaseio.com",
+    "project_id": "healingbee-firebase",
+    "storage_bucket": "healingbee-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960189514323:android:f9ea7e0b454ff0839d7ca6",
+        "android_client_info": {
+          "package_name": "com.example.healingbee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960189514323-it9hm5h0pv7rlp0eu5fbo14735ilfs24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healingbee",
+            "certificate_hash": "a87ab9ba562560ea9c4aee3a3492b2a9abfe981e"
+          }
+        },
+        {
+          "client_id": "960189514323-odc7j69k0426oskrutkqucsb552bqkd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKP1hGxbHVILn6RegnBZnOMVv0aL24X8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960189514323-odc7j69k0426oskrutkqucsb552bqkd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960189514323-rubis5eiu2plt5jh6thj3398es79psqs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healingbee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960189514323:android:3dd79a03ad9333359d7ca6",
+        "android_client_info": {
+          "package_name": "com.example.spotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960189514323-odc7j69k0426oskrutkqucsb552bqkd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKP1hGxbHVILn6RegnBZnOMVv0aL24X8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960189514323-odc7j69k0426oskrutkqucsb552bqkd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960189514323-rubis5eiu2plt5jh6thj3398es79psqs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healingbee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
