@@ -92,6 +92,4 @@ The project is organized as follows:
 ## License
 This project is licensed under the MIT License.
 
---- 
-
-This README gives a comprehensive overview of your project, guiding users through its structure, setup, and functionality. Adjust any project-specific details as needed.
+Thank you
