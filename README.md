@@ -1,6 +1,3 @@
-Here's a README template for your GitHub project that covers the contents based on the timestamps you provided. This README will introduce the project, outline the main features, and provide a clear structure for anyone who views the repository.
-
----
 
 # Project Title
 
